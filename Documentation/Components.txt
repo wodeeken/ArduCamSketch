@@ -1,0 +1,16 @@
+ Components Used
+ 1. Arduino Uno R3
+    https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_4?keywords=arduino+uno+R3&qid=1689487589&sr=8-4
+    Cost as of 07/2023: 28.50
+ 2. ArduCam OV2640 2MP Camera Shield
+    https://www.amazon.com/gp/product/B012UXNDOY/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+    Cost as of 07/23: 25.99
+ 3. IR Motion Sensor
+    https://www.amazon.com/Adafruit-LK-918O-SANV-FBACA-PIR-Motion-Sensor/dp/B00JOZTAC6/ref=sr_1_26?crid=2FXVUA7K6LPHX&keywords=arduino+motion+sensor&qid=1689487702&sprefix=arduino+motion+sensor%2Caps%2C113&sr=8-26
+    Cost as of 07/2023: 14.02
+ 4. XBee USB Adapter (2, 1 for camera, another for the receiving computer)
+    https://www.amazon.com/HiLetgo-Adapter-FT232RL-Serial-Arduino/dp/B01D0WSDTY/ref=sr_1_3?crid=1FLMD2FVUIWF3&keywords=xbee+usb+adapter&qid=1689487789&sprefix=xbee+usb+adapte%2Caps%2C115&sr=8-3
+    Cost as of 07/2023: 8.79
+ 5. XBee S2C Radio modules (2, 1 for camera, another for the receiving computer)
+    https://www.amazon.com/gp/product/B007R9U1QA/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+    Cost as of 07/2023: 38.95 X2
